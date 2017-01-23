@@ -1,0 +1,12 @@
+{
+    "name": "alanvaill/profiler",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AlanVaill\\Profiler\\": "src/"
+        }
+    }
+}

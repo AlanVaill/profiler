@@ -1,0 +1,1 @@
+Defines common interface for profiler and reporter. Also provides concrete for No-Op and Xdebug profiler.
